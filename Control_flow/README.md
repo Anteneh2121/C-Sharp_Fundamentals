@@ -3,3 +3,7 @@
 
 **Max_Two**
 `2- Write a program which takes two numbers from the console and displays the maximum of the two.`
+
+**Image**
+`3- Write a program and ask the user to enter the width and height of an image. Then tell if the image is landscape or portrait.`
+
