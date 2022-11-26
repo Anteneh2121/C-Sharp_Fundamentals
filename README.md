@@ -1,2 +1,1 @@
-# C-Sharp_Fundamentals
-C# Programming Language
+## C-Sharp_Fundamentals
